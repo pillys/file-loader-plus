@@ -1,4 +1,4 @@
-# file loader for webpack
+# file loader plus for webpack
 
 ## Usage
 
