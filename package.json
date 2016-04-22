@@ -1,0 +1,22 @@
+{
+  "name": "file-loader-plus",
+  "version": "0.1.0",
+  "author": "pillys@163.com",
+  "description": "file loader plus for webpack",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "loader-utils": "~0.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pillys/file-loader-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pillys/file-loader-plus/issues"
+  },
+  "homepage": "https://github.com/pillys/file-loader-plus",
+  "main": "index.js",
+  "license": "MIT"
+}
