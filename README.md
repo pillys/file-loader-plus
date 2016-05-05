@@ -1,4 +1,4 @@
-# file loader plus for webpack
+# file plus loader for webpack
 
 ## Usage
 
@@ -7,7 +7,7 @@
 ``` javascript
 loaders: [{
   test: /\.(jpg|jpeg|gif|swf|png|eot|woff|ttf|svg)$/,
-  loader: 'file-loader',
+  loader: 'file-plus',
     query: {
       context: 'some dir',
       name: '[path][name].[ext]',
@@ -22,7 +22,7 @@ By default the file-loader cann't support a filter for the url, this loader can 
 
 ## More
 
-see https://github.com/webpack/file-loader
+file-loader: https://github.com/webpack/file-loader
 
 ## License
 
